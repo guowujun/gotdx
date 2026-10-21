@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/bensema/gotdx/proto"
-	_ "modernc.org/sqlite"
+	_ "github.com/glebarez/go-sqlite"
 )
 
 const futuresCalendarLocation = "Asia/Shanghai"
