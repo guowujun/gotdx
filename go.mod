@@ -6,6 +6,7 @@ require (
 	github.com/glebarez/go-sqlite v1.23.0
 	github.com/spf13/cast v1.10.0
 	golang.org/x/text v0.40.0
+	modernc.org/sqlite v1.55.0
 )
 
 require (
